@@ -1,23 +1,23 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7359dd8b-392d-4cf4-ba0e-6e1380b22dbf" alt="Stormbit Logo" width="600">
-</div>
+<div align="center"> <h1>RWA × zkTLS: The Future of Retail Lending</h1> </div>
 
-<br> 
-<br>
 
-**Stormbit** is reshaping decentralized lending with customizable terms and cutting-edge risk assessment, using verifiable credentials to unlock better rates.
+![Github Cover](https://github.com/user-attachments/assets/4b99a383-0534-422e-9de6-a9760e4f2080)
+
+Stormbit is building the infrastructure layer for global lending markets, enabling anyone to create and manage lending terms with flexibility. The protocol's modular design allows term creators to choose between different options: RWA-collateralized lending, or zkTLS for trust-based loans.
 
 ## Quick Links
 - [Documentation](https://docs.stormbit.finance/)
 - [Website](https://stormbit.finance)
-- [Whitepaper](https://stormbit.finance/whitepaper)
+- [Whitepaper](https://docsend.com/view/pah6um8hqezuuqvy)
 - [Twitter](https://twitter.com/StormbitX)
 
-## About Terms
-A **Term** in Stormbit is a lending agreement where users can customize:
-- Interest Rates
-- Collateral Requirements
-- Loan Duration
-- Eligibility Criteria
+## Protocol Overview
+The protocol's term system enables:
+- Customizable lending parameters for any scale
+- RWA tokenization and collateralization
+- Private credit verification through zkTLS
+- Trust-based loans with verifiable credentials
 
-Ready to join? [Start here](https://stormbit.finance) to begin lending and earning Storm Points!
+Built with early support from Starknet Foundation and Arbitrum.
+
+Ready to revolutionize lending? [Start here](https://stormbit.finance)
