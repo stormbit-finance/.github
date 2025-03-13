@@ -1,9 +1,8 @@
-<div align="center"> <h1>RWA × zkTLS: The Future of Retail Lending</h1> </div>
+<div align="center"> <h1>RWA × zkTLS: The Future of Composable Lending</h1> </div>
 
 
-![Github Cover](https://github.com/user-attachments/assets/4b99a383-0534-422e-9de6-a9760e4f2080)
+![Twitter header - 1 (1)](https://github.com/user-attachments/assets/7177466f-0bfc-4609-9d2c-373b7bf5dde8)
 
-Stormbit is building the infrastructure layer for global lending markets, enabling anyone to create and manage lending terms with flexibility. The protocol's modular design allows term creators to choose between different options: RWA-collateralized lending, or zkTLS for trust-based loans.
 
 ## Quick Links
 - [Documentation](https://docs.stormbit.finance/)
@@ -12,12 +11,15 @@ Stormbit is building the infrastructure layer for global lending markets, enabli
 - [Twitter](https://twitter.com/StormbitX)
 
 ## Protocol Overview
-The protocol's term system enables:
-- Customizable lending parameters for any scale
-- RWA tokenization and collateralization
-- Private credit verification through zkTLS
-- Trust-based loans with verifiable credentials
 
-Built with early support from Starknet Foundation and Arbitrum.
+Stormbit’s protocol provides a composable, institutional-grade lending framework that enhances capital efficiency, risk management, and borrower trust in both DeFi and TradFi markets : 
 
-Ready to revolutionize lending? [Start here](https://stormbit.finance)
+- **Agreement-Based Lending** – Structured loans with fixed terms, no forced liquidations, and predictable repayment schedules.
+- **RWA & Digital Asset Collateralization** – Support for real-world assets, Bitcoin, and tokenized credit markets, ensuring verifiable ownership and stable value tracking.
+- **zkTLS-Powered Privacy & Compliance** – Secure, trustless borrower verification for private credit markets, enabling permissionless yet compliant lending.
+- **Customizable Lending Markets** – Institutions, fintechs, and protocols can design tailored loan parameters, including variable risk models, regional compliance filters, and multi-chain execution.
+
+
+
+
+
