@@ -1,25 +1,11 @@
-<div align="center"> <h1>RWA × zkTLS: The Future of Composable Lending</h1> </div>
+<div align="center"><h1>Stormbit</h1></div>
 
+Every tokenized asset will have a dealer. Stormbit builds the settlement software they run on.
 
-![Twitter header - 1 (1)](https://github.com/user-attachments/assets/7177466f-0bfc-4609-9d2c-373b7bf5dde8)
+Non-custodial smart contracts settle income, entry and credit programs on tokenized assets. Terms are priced per transaction by a counterparty, authorized from the holder's own wallet, and applied by the contract at settlement.
 
+## Links
 
-## Quick Links
-- [Documentation](https://docs.stormbit.finance/)
 - [Website](https://stormbit.finance)
-- [Whitepaper](https://docsend.com/view/pah6um8hqezuuqvy)
-- [Twitter](https://twitter.com/StormbitX)
-
-## Protocol Overview
-
-Stormbit’s protocol provides a composable, institutional-grade lending framework that enhances capital efficiency, risk management, and borrower trust in both DeFi and TradFi markets : 
-
-- **Agreement-Based Lending** – Structured loans with fixed terms, no forced liquidations, and predictable repayment schedules.
-- **RWA & Digital Asset Collateralization** – Support for real-world assets, Bitcoin, and tokenized credit markets, ensuring verifiable ownership and stable value tracking.
-- **zkTLS-Powered Privacy & Compliance** – Secure, trustless borrower verification for private credit markets, enabling permissionless yet compliant lending.
-- **Customizable Lending Markets** – Institutions, fintechs, and protocols can design tailored loan parameters, including variable risk models, regional compliance filters, and multi-chain execution.
-
-
-
-
-
+- [Documentation](https://docs.stormbit.finance)
+- [X](https://x.com/StormbitFinance)
